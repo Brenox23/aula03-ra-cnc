@@ -203,4 +203,4 @@ document.addEventListener("DOMContentLoaded", () => {
     // Inicia as atualizações de posição
     updateHotspotPositions();
 
-});
+});     
